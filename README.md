@@ -1,2 +1,7 @@
 # QA-SISR
 Quantum Annealing for Single Image Super-Resolution
+by Han Yao Choong, Suryansh Kumar and Luc Van Gool (ETH Zürich)
+
+Our work is part of NTIRE 2023: CVPR 2023 New Trends in Image Restoration and Enhancement Workshop.
+
+Paper: https://arxiv.org/abs/2304.08924
