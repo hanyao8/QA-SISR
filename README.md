@@ -8,7 +8,6 @@ Paper: https://arxiv.org/abs/2304.08924
 
 
 ## Installation
-
 ```
 conda install --file requirements.txt
 ```
@@ -19,4 +18,12 @@ or
 pip install -r requirements.txt
 ```
 
+## Training
+```
+python qasisr/dict_train.py
+```
 
+## Validation
+```
+python qasisr/run.py
+```
