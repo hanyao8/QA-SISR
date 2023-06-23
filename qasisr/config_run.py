@@ -63,17 +63,17 @@ print("exp_name: %s"%C.exp_name)
 ############################################
 
 val_hr_path = {
-    "1img":"data/val_single_hr",
+    "1img":"data/val_single/HR",
     "1img_small":"data/val_single_small2/HR",
-    "valset":"data/val_hr",
+    "valset":"data/val/HR",
     "set5":"data/Set5/set5_4_hr"
 }
 C.val_hr_path = val_hr_path[mode_val]
 
 val_lr_path = {
-    "1img":"data/val_single_lr",
+    "1img":"data/val_single/LR",
     "1img_small":"data/val_single_small2/LR",
-    "valset":"data/val_lr",
+    "valset":"data/val/LR",
     "set5":"data/Set5/set5_4_lr"
 }
 C.val_lr_path = val_lr_path[mode_val]
